@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+Bundle-Localization: org/guigen/uigen/Bundle
+Bundle-Name: %OpenIDE-Module-Name
+Bundle-SymbolicName: org.guigen.uigen
+Bundle-Version: 1.0
+OpenIDE-Module-Requires: org.openide.windows.WindowManager
+

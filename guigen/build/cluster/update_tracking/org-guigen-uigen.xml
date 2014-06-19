@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.guigen.uigen">
+    <module_version install_time="1403201065026" last="true" origin="installer" specification_version="1.0">
+        <file crc="4158781465" name="config/Modules/org-guigen-uigen.xml"/>
+        <file crc="3344014885" name="modules/org-guigen-uigen.jar"/>
+    </module_version>
+</module>
