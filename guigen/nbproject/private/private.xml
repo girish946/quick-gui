@@ -3,13 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/girish/NetBeansProjects/guigen/src/org/guigen/uigen/not.gif</file>
-            <file>file:/home/girish/NetBeansProjects/guigen/src/org/guigen/uigen/ColorDlg.java</file>
-            <file>file:/home/girish/NetBeansProjects/guigen/src/org/guigen/uigen/trialaction.java</file>
-            <file>file:/home/girish/NetBeansProjects/guigen/src/org/guigen/uigen/opclassTopComponent.java</file>
-            <file>file:/home/girish/NetBeansProjects/guigen/src/org/guigen/uigen/AppUIMainTopComponent.java</file>
-            <file>file:/home/girish/NetBeansProjects/guigen/src/org/guigen/uigen/Uigen.java</file>
-            <file>file:/home/girish/NetBeansProjects/guigen/src/org/guigen/uigen/Guigen.java</file>
+            <file>file:/home/girish/NetBeansProjects/quick-gui/guigen/nbproject/project.xml</file>
+            <file>file:/home/girish/NetBeansProjects/quick-gui/guigen/src/org/guigen/uigen/Window_Listener_Panel.java</file>
+            <file>file:/home/girish/NetBeansProjects/quick-gui/guigen/manifest.mf</file>
         </group>
     </open-files>
 </project-private>

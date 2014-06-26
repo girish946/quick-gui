@@ -5,4 +5,5 @@ Bundle-Name: %OpenIDE-Module-Name
 Bundle-SymbolicName: org.guigen.uigen
 Bundle-Version: 1.0
 OpenIDE-Module-Requires: org.openide.windows.WindowManager
+Import-Package: javax.swing
 

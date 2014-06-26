@@ -42,7 +42,7 @@ public class Window_Listener_Panel extends java.awt.Panel implements ActionListe
 		add(one,BorderLayout.NORTH);
 		add(two,BorderLayout.CENTER);
 		add(three,BorderLayout.SOUTH);
-		OK_button=new java.awt.Button("Ok");
+		OK_button=new javax.swing.JButton("Ok");
 		three.add(OK_button);
 		OK_button.addActionListener(this);
 		validate();
@@ -73,7 +73,8 @@ public class Window_Listener_Panel extends java.awt.Panel implements ActionListe
 	java.awt.CardLayout cl;
 	java.awt.Button event_button[]= new java.awt.Button[7];
 	static java.awt.TextArea editText[]=new java.awt.TextArea[7];
-	java.awt.Button OK_button;
+	//java.awt.Button OK_button;
+        javax.swing.JButton OK_button;
         static org.guigen.uigen.Guigen gui;
 }
     
